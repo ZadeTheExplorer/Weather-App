@@ -7,4 +7,5 @@
     <string name="feels_like">Feels like</string>
     <string name="weather">Weather</string>
     <string name="name">City</string>
+    <string name="input_city_name">input city name</string>
 </resources>
